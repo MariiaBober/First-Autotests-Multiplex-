@@ -1,2 +1,2 @@
 # First-Autotests-Multiplex-
-My first autotests for multiplex.ua ( Sidebar menu) 
+My first (java)autotests for multiplex.ua ( Sidebar menu) 
